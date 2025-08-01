@@ -1,4 +1,4 @@
-# PRODIGY_ML_04
+#Hand Gesture Recognition using CNN
 Hand Gesture Recognition using CNN
 This repository includes code for recognizing hand gestures using a Convolutional Neural Network (CNN). The dataset utilized is the LeapGestRecog dataset from Kaggle.
 
