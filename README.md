@@ -17,7 +17,7 @@ keras
 tensorflow
 You can install these libraries using pip:
 
-pip install pandas numpy opencv-python matplotlib keras tensorflow
+-pip install pandas numpy opencv-python matplotlib keras tensorflow
 
 Usage
 Download the LeapGestRecog dataset from Kaggle and place it in the same directory as the script.
